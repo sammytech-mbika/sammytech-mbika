@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Sammy Mbika!
+# 👋 Hi, I'm samuel Muigai
 
-## 🏫 About Me  
+##  About Me  
 I'm an aspiring programmer with a background in telecommunication engineering. Currently, I'm diving into the world of programming to expand my skills and explore new opportunities in tech.
 
 ## 🎯 Learning Goals & Interests  
@@ -10,14 +10,14 @@ I'm an aspiring programmer with a background in telecommunication engineering. C
 - Exploring different technologies and problem-solving techniques  
 - Working on hands-on coding projects  
 
-## 💻 Technologies & Languages  
+## Technologies & Languages  
 Currently learning: **Yet to be introduced in my programming class**  
 
-## 🚀 Current Projects & Coursework  
+## Current Projects & Coursework  
 - Learning the basics of programming  
 - Exploring problem-solving techniques  
 
-## 📫 How to Reach Me  
+## How to Reach Me  
 - **Email:** smuigai294@gmail.com  
 - **GitHub:** sammytech-mbika
 
