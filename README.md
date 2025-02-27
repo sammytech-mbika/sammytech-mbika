@@ -19,7 +19,7 @@ Currently learning: **Yet to be introduced in my programming class**
 
 ## 📫 How to Reach Me  
 - **Email:** smuigai294@gmail.com  
-- **GitHub:** samytech-mbika
+- **GitHub:** sammytech-mbika
 
 ---
 
